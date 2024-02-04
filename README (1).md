@@ -8,7 +8,7 @@ description: 主要安装 nvm、npm、pnpm、以及换国内镜像源
 
     [https://github.com/coreybutler/nvm-windows/releases](https://github.com/coreybutler/nvm-windows/releases)
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 注意安装时一路默认不要换位置！不要换位置！不要换位置！
 
@@ -20,7 +20,7 @@ description: 主要安装 nvm、npm、pnpm、以及换国内镜像源
 nvm -v
 ```
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * 使用国内源
 
