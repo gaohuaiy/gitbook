@@ -1,4 +1,9 @@
 # Table of contents
 
-* [前端开发](README.md)
-* [安装前端开发环境](an-zhuang-qian-duan-kai-fa-huan-jing.md)
+## Group 1
+
+* [安装前端开发环境](README.md)
+
+## Group 2
+
+* [安装java开发环境](group-2/an-zhuang-java-kai-fa-huan-jing.md)
