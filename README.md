@@ -1,3 +1,7 @@
+---
+description: java全栈开发笔记
+---
+
 # 目录
 
 ####
@@ -8,6 +12,6 @@
 
 
 
-{% content-ref url="group-1/an-zhuang-java-kai-fa-huan-jing.md" %}
-[an-zhuang-java-kai-fa-huan-jing.md](group-1/an-zhuang-java-kai-fa-huan-jing.md)
+{% content-ref url="group-2/an-zhuang-java-kai-fa-huan-jing.md" %}
+[an-zhuang-java-kai-fa-huan-jing.md](group-2/an-zhuang-java-kai-fa-huan-jing.md)
 {% endcontent-ref %}
