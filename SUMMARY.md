@@ -1,8 +1,12 @@
 # Table of contents
 
+## Group 3
+
+* [目录](README.md)
+
 ## Group 1
 
-* [安装前端开发环境](README.md)
+* [安装前端开发环境](<README (1).md>)
 
 ## Group 2
 
