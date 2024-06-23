@@ -1,0 +1,14 @@
+{
+  "name": "gitbook",
+  "scripts": {
+      "docs:dev": "vuepress dev docs",
+      "docs:build": "vuepress build docs"
+    },
+  "author": "huaiyu.gao",
+  "devDependencies": {
+    "@vuepress/bundler-vite": "2.0.0-rc.14",
+    "@vuepress/theme-default": "2.0.0-rc.37",
+    "vue": "^3.4.30",
+    "vuepress": "2.0.0-rc.14"
+  }
+}
